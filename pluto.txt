@@ -1,3 +1,4 @@
 PLUTO
 Pluto is a dwarf planet
-SOMETHING ELSE
+
+fix the lines that are in conflict with each other
